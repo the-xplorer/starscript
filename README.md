@@ -15,3 +15,7 @@ StarLib is available !
 ...
 
 There are no dependency.
+
+Compatibility :
+StarScript : >= IE8
+StarLib : >= IE10
